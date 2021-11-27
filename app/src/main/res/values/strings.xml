@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewJanu</string>
+    <string name="bidadari_name">Bidadari Name</string>
+    <string name="description">Description</string>
+</resources>
